@@ -1,0 +1,48 @@
+Copyright (c) 2026 Donna. All rights reserved.
+
+The Donna desktop application distributed through this repository ("the
+Software") is proprietary. It is made available for download, not placed in
+the public domain and not released under an open source license.
+
+GRANT
+
+Subject to the terms below, you are granted a personal, non-exclusive,
+non-transferable, revocable license to download the Software and run it on
+Macs you own or control, for the purpose of using the Donna service.
+
+RESTRICTIONS
+
+You may not:
+
+  1. redistribute, sell, rent, lease, sublicense, or host the Software for
+     others to download;
+  2. modify the Software, or create works derived from it;
+  3. reverse engineer, decompile, or disassemble the Software, except to the
+     extent that applicable law expressly permits despite this restriction;
+  4. remove or alter any copyright, trademark, or other proprietary notice;
+  5. use the Donna name or marks to identify anything other than the Software
+     as distributed here.
+
+Use of the Donna service through the Software is additionally governed by the
+terms published at https://meetdonna.xyz.
+
+THIRD-PARTY COMPONENTS
+
+The Software is built on Electron, which bundles Chromium and Node.js, along
+with other open source components. Those components remain under their own
+licenses, which are included inside the application bundle and are unaffected
+by this notice. Nothing here restricts any right you hold under those licenses.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+TERMINATION
+
+This license ends automatically if you breach any term of it. On termination,
+stop using the Software and delete every copy you hold.
